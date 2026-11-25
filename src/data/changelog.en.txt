@@ -1,0 +1,8 @@
+== 1.0
+- First public release of Baro Companion, a Barotrauma handbook.
+- Data is read straight from the installed game's files and enabled mods: items, prices, recipes, deconstruction, weapons, medicine, talents, subs, creatures and missions. Without the game — a built-in copy (Russian and English).
+- The save is picked up automatically: difficulty, station, store markups, daily specials and station requests, taken and offered missions, biome creatures, supplies on board.
+- Items: search by name, slang and typos; icons; favorites and recent; crafting tree down to raw materials with price and availability; shopping list; compare up to 4 items.
+- Medicine: afflictions and a treatment plan with the smallest set of medicine. Subs: stats, upgrades, reactor and power. Wiring: components, inputs/outputs, typical circuits. Bestiary and missions of every type. Talents: builds and share codes.
+- Overlay over the game (Shift+T): search, item description and stats, required skill for medicine, prices with specials and station requests, crafting, deconstruction, where it is used and what it comes from.
+- Russian and English interface; language on first launch follows the system language.

@@ -1,0 +1,3 @@
+# скрипты запуска для Linux и macOS — всегда с LF, иначе sh не разберёт первую строку
+*.sh text eol=lf
+*.command text eol=lf

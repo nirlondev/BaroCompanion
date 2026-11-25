@@ -1,0 +1,12 @@
+# Сборка
+out/
+native/build/
+native/*.exe
+native/*.tmp
+*.class
+*.jar
+
+# IDE / локальное
+.idea/workspace.xml
+.idea/shelf/
+dist/

@@ -1,0 +1,3 @@
+Main-Class: baro.App
+Enable-Native-Access: ALL-UNNAMED
+Add-Opens: java.desktop/sun.awt.windows java.desktop/java.awt
